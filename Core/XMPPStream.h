@@ -108,7 +108,7 @@ extern const NSTimeInterval XMPPStreamTimeoutNone;
  * If you do not explicitly set the port, the default port will be used.
  * If you set the port to zero, the default port will be used.
  * 
- * The default port is 5222.
+ * The default port is 5223.
 **/
 @property (readwrite, assign) UInt16 hostPort;
 
